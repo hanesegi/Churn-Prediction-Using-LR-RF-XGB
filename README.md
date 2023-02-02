@@ -1,5 +1,6 @@
 # Churn-Prediction-Using-LR-RF-XGB
 
 <div align="center">
-    <img alt="churn" src="img/Deck portofolio.jpg" width="100%" height="300">
+    <img alt="churn" src="https://github.com/hanesegi/Churn-Prediction-Using-LR-RF-XGB/blob/main/img/Deck%20Portofolio.jpg" 
+    >
 </div>
